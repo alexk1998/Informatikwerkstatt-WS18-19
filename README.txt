@@ -1,0 +1,1 @@
+Informatikwerkstatt Hausaufgabe CMain mit Interface IFahrzeug, CMotorrad, CAuto und CSuv/CLKW die CAuto erweitern.
